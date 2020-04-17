@@ -1,0 +1,21 @@
+.img1_desk_img {
+    width: 564px;
+    height: 433px;
+    border-radius: 62pt;
+
+}
+
+.img1_desk {
+    width: 564px;
+    height: 433px;
+    border-radius: 62pt;
+    position: relative;
+    display: flex;
+} 
+
+.img1desk_button1desk {
+    position: absolute;
+    left: 150px;
+    top: 160px;
+    width: 319px;
+} 

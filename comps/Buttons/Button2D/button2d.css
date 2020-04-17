@@ -1,18 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Yantramanav:wght@300;700&display=swap');
 
-.button1_Desk {
+.button2_Desk {
     background-color: #FFFFFF;
     border: 3px solid #185499;
     display: inline-flex;
     padding: 10px;
-    margin: 5px;
     font-size: 29pt;
     font-family: 'Yantramanav' sans-serif;
     font-weight: 300;
     border-radius: 37pt;
 }
 
-.button1_Desk_text {
+.button2_Desk_text {
     font-size: 29pt;
     font-family: 'Yantramanav' sans-serif;
     font-weight: 300;
