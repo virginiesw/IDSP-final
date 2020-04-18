@@ -8,7 +8,7 @@ import Header6Desk from '../comps/typography/Header6D';
 
 
 export default {
-    title: 'Typrography',
+    title: 'Typrography Desktop',
   };
 
 export const MyHeader1Desktop = () => <Header1Desk />;

@@ -7,7 +7,7 @@ import ImgBannerDesk from '../comps/Imgs/ImgBannerDesk';
 import ImgProfileDesk from '../comps/Imgs/ImgProfileDesk';
 
 export default {
-    title: 'Images',
+    title: 'Images Desktop',
   };
 
 export const MyCategoryImageDesktop = () => <Img1Desk />

@@ -1,0 +1,20 @@
+.img1_mobl_img {
+    width: 381px;
+    height: 161px;
+    border-radius: 20pt;
+}
+
+.img1_mobl {
+    width: 381px;
+    height: 161px;
+    border-radius: 20pt;
+    position: relative;
+    display: flex;
+} 
+
+.img1mobl_button1desk {
+    position: absolute;
+    left: 95px;
+    top: 60px;
+    width: 319px;
+} 

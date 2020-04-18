@@ -5,7 +5,7 @@ import Button3Desk from '../comps/Buttons/Button3D';
 
 
 export default {
-    title: 'Buttons',
+    title: 'Buttons Desktop',
   };
 
 export const MyButton1Desktop = () => <Button1Desk />;
